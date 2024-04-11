@@ -1,5 +1,0 @@
-classes = 4
-train = /Users/abdul/Documents/GitHub/css2-repo/3_class_data/data/train.txt
-valid = /Users/abdul/Documents/GitHub/css2-repo/3_class_data/data/val.txt
-names = /Users/abdul/Documents/GitHub/css2-repo/3_class_data/data/obj.names
-backup = /Users/abdul/Documents/GitHub/css2-repo/3_class_data/data/backup/

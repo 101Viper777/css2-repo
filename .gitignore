@@ -1,6 +1,5 @@
 env
-3_class_data/data/test
-3_class_data/data/val
-3_class_data/data/train
-3_class_data/ts
 42_class_data
+3_class_data/ts/ts
+42_class_data/TestIJCNN2013/TestIJCNN2013Download
+42_class_data/TrainIJCNN2013/TrainIJCNN2013
