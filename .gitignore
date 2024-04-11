@@ -3,3 +3,5 @@ env
 3_class_data/ts/ts
 42_class_data/TestIJCNN2013/TestIJCNN2013Download
 42_class_data/TrainIJCNN2013/TrainIJCNN2013
+yolov2test/darknet/yolov2.weights
+yolov2test/darknet/backup/yolov2-custom_final.weights
